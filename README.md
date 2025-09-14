@@ -1,7 +1,7 @@
 # Spotify-Data-Analysis - Power-BI
 
 ## 📌 Project Overview  
-This project focuses on **analyzing Spotify data from 2013–2024** using **Power BI** to extract meaningful insights, identify patterns, and visualize listening trends over time.  
+This project focuses on **analyzing Spotify data from 2013 – 2024** using **Power BI** to extract meaningful insights, identify patterns, and visualize listening trends over time.  
 The goal was to apply **Data Mining** and **Business Intelligence** concepts to build a **fully interactive dashboard** that provides actionable insights and storytelling through data.  
 
 ---
