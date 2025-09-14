@@ -7,12 +7,12 @@ The goal was to apply **Data Mining** and **Business Intelligence** concepts to 
 ---
 
 ## 🚀 Features & Insights  
-- 💠 **Year-over-Year Analysis** – Compare current vs. previous year listening trends using DAX measures  
-- 💠 **Top Artists & Tracks** – Identify the most played artists and tracks over multiple years  
-- 💠 **Engagement Metrics** – Analyze skipped vs. completed plays for better insights  
-- 💠 **Time-Based Analysis** – Understand listening behavior by hour, day, and platform usage  
-- 💠 **Geographical Insights** – City-wise sales & streams visualized on a map  
-- 💠 **Interactive Slicers & Charts** – Provide dynamic filtering for user-driven exploration  
+💠 **Year-over-Year Analysis** – Compare current vs. previous year listening trends using DAX measures  
+💠 **Top Artists & Tracks** – Identify the most played artists and tracks over multiple years  
+💠 **Engagement Metrics** – Analyze skipped vs. completed plays for better insights  
+💠 **Time-Based Analysis** – Understand listening behavior by hour, day, and platform usage  
+💠 **Geographical Insights** – City-wise sales & streams visualized on a map  
+💠 **Interactive Slicers & Charts** – Provide dynamic filtering for user-driven exploration  
 
 ---
 
